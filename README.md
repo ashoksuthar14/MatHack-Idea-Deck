@@ -1,32 +1,30 @@
 # MatHack-Idea-Deck
 
-# Project Name
+# Problem Statement : Crop Monitoring using Computer Vision
+## Project : FarmCare 
 
-Brief description or tagline of your project.
+Farmer's Backbone | A computer vision website with simple and understanble UI to help farmers increase their yield.
 
 ## Table of Contents
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
+- [Project Name]
+- [Problem Statement]
+- [Stakeholder and Statistics]
+- [Existing Systems and Limitations]
+- [Proposed Systems]
+- [Block Diagram]
+- [Rrefrences]
 
 ## Features
 
-- List key features of your project.
-- Use bullet points or checkboxes for clarity.
+- Detecting plant Disease
+- Pesticide Recommendation
+- Soil Analysis and suggestions
+- MSP Suggestion - connecting buyers to farmers
+- # Multi Language ChatBot
 
-## Demo
+## The Video Demo link:
+
 
 Include a GIF, screenshot, or link to a live demo to showcase your project.
 
-## Installation
 
-Provide clear instructions on how to install and set up your project.
-Include any prerequisites or dependencies needed.
-
-```bash
-# Installation steps, example:
-npm install your-package
