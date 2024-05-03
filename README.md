@@ -20,11 +20,11 @@ Farmer's Backbone | A computer vision website with simple and understanble UI to
 - Pesticide Recommendation
 - Soil Analysis and suggestions
 - MSP Suggestion - connecting buyers to farmers
-- # Multi Language ChatBot
-
-## The Video Demo link:
+- ## Multi Language ChatBot
 
 
-Include a GIF, screenshot, or link to a live demo to showcase your project.
+
+
+
 
 
